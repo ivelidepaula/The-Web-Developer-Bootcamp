@@ -1,0 +1,28 @@
+body {
+    background-color: #ffe600;
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Major Mono Display', monospace;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    height: 150px;
+    width: 150px;
+}
+
+.vertical {
+    border-left: 2px solid purple;
+    border-right: 2px solid purple;
+}
+
+.horizontal {
+    border-top: 2px solid purple;
+    border-bottom: 2px solid purple;
+}
